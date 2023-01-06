@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
-pip install mkdocs
-pip install mkdocs-material
+py -m pip install mkdocs
+py -m pip install mkdocs-material
 
 nano docs/CNAME
 
